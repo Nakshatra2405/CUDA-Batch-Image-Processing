@@ -1,0 +1,7 @@
+build/
+output/*.ppm
+output/benchmark.csv
+data/sample_images/*.ppm
+__pycache__/
+*.o
+cuda_image_processor
